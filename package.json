@@ -1,0 +1,22 @@
+{
+  "name": "tuto-devops",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/TendryOne/Devops#readme",
+  "bugs": {
+    "url": "https://github.com/TendryOne/Devops/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TendryOne/Devops.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+    
+  }
+}
